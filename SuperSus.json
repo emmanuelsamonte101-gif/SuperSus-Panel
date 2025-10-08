@@ -4,13 +4,13 @@
   "description": "Please login to continue using this app.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
-  "renewUrl": "https://t.me/dp_mods",
+  "renewUrl": "https://t.me/SkyLand02",
   "devices": [
     {
       "device_id": "5000396a53007a32",
       "username": "joanamodz",
       "password": "372727",
-      "expire_date": "2025-10-20"
+      "expire_date": "2025-10-09"
     },
     {
       "device_id": "abcdef9876543210",
