@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "🔐 Secure Login",
-  "description": "Please login to continue using this app.",
+  "description": "Please login first to continue using this Mod app before safe token.",
   "button": "LOGIN",
   "toast": "✅ Successfully Logged In!",
   "renewUrl": "https://t.me/SkyLand02",
