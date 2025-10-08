@@ -1,0 +1,14 @@
+[
+    {
+        "device_id": "device123",
+        "key": "Joanasimal5732",
+        "expirydate": "09-10-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "device456",
+        "key": "Joanasimal5327",
+        "expirydate": "30-10-2025",
+        "Allowoffline": false
+    }
+]
